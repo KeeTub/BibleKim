@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://examplesite.com/posts/first/</loc>
+    <loc>https://KeeTub.github.io/BibleKim/posts/first/</loc>
     <lastmod>2026-01-21T15:22:35-07:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/posts/</loc>
+    <loc>https://KeeTub.github.io/BibleKim/posts/</loc>
     <lastmod>2026-01-21T15:22:35-07:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/</loc>
+    <loc>https://KeeTub.github.io/BibleKim/</loc>
     <lastmod>2026-01-21T15:22:35-07:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/categories/</loc>
+    <loc>https://KeeTub.github.io/BibleKim/categories/</loc>
   </url><url>
-    <loc>https://examplesite.com/tags/</loc>
+    <loc>https://KeeTub.github.io/BibleKim/tags/</loc>
   </url>
 </urlset>

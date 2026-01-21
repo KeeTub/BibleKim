@@ -1,6 +1,6 @@
-baseURL = 'https://examplesite.com/'
+baseURL = 'https://KeeTub.github.io/BibleKim/'
 languageCode = 'ko-kr'
-title = '내 첫번째 블로그'
+title = 'Praxis Bible'
 theme = 'PaperMod'
 
 publishDir = 'docs'
