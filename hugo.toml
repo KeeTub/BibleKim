@@ -1,0 +1,6 @@
+baseURL = 'https://examplesite.com/'
+languageCode = 'ko-kr'
+title = '내 첫번째 블로그'
+theme = 'PaperMod'
+
+publishDir = 'docs'
