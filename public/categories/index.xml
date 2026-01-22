@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Categories on Praxis Bible</title>
-        <link>http://localhost:1313/BibleKim/categories/</link>
-        <description>Recent content in Categories on Praxis Bible</description>
+        <title>Categories on Example Site</title>
+        <link>https://KeeTub.github.io/BibleKim/categories/</link>
+        <description>Recent content in Categories on Example Site</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>ko-kr</language><atom:link href="http://localhost:1313/BibleKim/categories/index.xml" rel="self" type="application/rss+xml" />
+        <language>en</language>
+        <copyright>Example Person</copyright><atom:link href="https://KeeTub.github.io/BibleKim/categories/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>
