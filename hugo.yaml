@@ -2,6 +2,7 @@ baseurl: https://KeeTub.github.io/BibleKim/
 languageCode: en-us
 theme: hugo-theme-stack
 title: Praxis Bible
+publishDir: "docs"
 copyright: Example Person
 
 # Theme i18n support
